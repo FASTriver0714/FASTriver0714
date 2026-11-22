@@ -5,7 +5,7 @@
 <br>
 
 ## 🙋‍♂️ About Me
-- CoupangEats Catalog Ops (2026.10.23 ~ ing)
+- CoupangEats Catalog Ops (2026.10 ~ ing)
 - 🎓 성균관대학교 문헌정보학과 졸업 (2024.08)
 - 성균관대학교 SW 부트캠프 KSEB 수료(2024.03 ~ 2024.11)
 - Microsoft Data School 1기(2025.04 ~ 2025.07)
